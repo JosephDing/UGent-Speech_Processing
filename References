@@ -1,0 +1,26 @@
+# Sources of this prject. Algorithms and so on.   
+
+DTW algorithm:   
+https://en.wikipedia.org/wiki/Dynamic_time_warping  
+
+参考  
+https://github.com/LittleLaa/SpeechRecognitionSystem  
+
+贝叶斯spell checker  
+https://www.cnblogs.com/luxiaoxun/p/4099567.html
+
+http://norvig.com/spell-correct.html  
+
+DTW 距离（Dynamic Time Warp）   
+https://my.oschina.net/u/3579120/blog/1508003  
+
+https://zhuanlan.zhihu.com/p/32849741   
+https://zhuanlan.zhihu.com/p/43247215  
+https://blog.csdn.net/vanezuo/article/details/5586727  
+https://www.cnblogs.com/flypiggy/p/3603192.html  
+
+
+Matlab DTW   
+https://nl.mathworks.com/matlabcentral/fileexchange/43156-dynamic-time-warping-dtw  
+https://nl.mathworks.com/help/signal/ref/dtw.html   
+
